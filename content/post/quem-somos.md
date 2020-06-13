@@ -11,6 +11,4 @@ Tenho 18 anos estou cursando 3º período de Engenharia de Software, sou totalme
 
 # Guilherme Barbirato Escame:
 
-{{< figure src= https://i.imgur.com/ZqU6NHI.jpg >}}
-
 Tenho 19 anos e estou no terceiro período do curso de Engenharia de Software, sempre fui muito ligado e tive facilidade com computadores e a própria lingua inglesa, na qual sou fluente, o que me levou a perseguir uma área que juntasse os dois mundos. Ainda não alcancei um conhecimento amplo relacionado as linguagens usadas, mas considero que tenho uma facilidade pro entendimento da lógica utilizada na montagem dos códigos e tenho interesse por dominar certas linguagens e usá-las de forma a facilitar a vida.
