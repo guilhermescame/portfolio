@@ -7,6 +7,7 @@ image: 'fast-lane.jpg'
 
 # Guilherme Magon Scarpi:      
 
+
 Tenho 18 anos estou cursando 3º período de Engenharia de Software, sou totalmente inexperiente na área de tecnologia, porem já participei de diversas feiras de robótica e tecnologia, completei um curso de assistente administrativo, tenho conhecimento escasso em linguagens de programação e estou cada dia me desenvolvendo aos poucos e aprendendo sobre, me ingressar no ramo de tecnologia por gostar muito de IAs e querer entender como elas funcionam, estou em uma constante busca por conhecimento dos mais variáveis.
 
 # Guilherme Barbirato Escame:
